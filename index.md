@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone]
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone is that a servo motor will turn in the direction of the light. For this to work, I used the same photoresistors, but I also connected a servo motor to the Arduino which could take data through the analog pins. One issue that I had was that the motor wasn't turning even when I put light. To fix this, I changed when the motor would move to be more sensitive. This will be used in my final design to move the solar panel.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hPz20W8WfWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
