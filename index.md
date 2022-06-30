@@ -10,12 +10,12 @@ This will serve as a brief description of your project. Limit this to three sent
 # Final Milestone
 My final milestone was finalizing the design. I included the solar panel and built the frame out of wood. My modification was the LCD screen which displays how much light went to each photoresistor. Some issues that I had were that I didn't have access to spring steel, so the motor wasn't able to move the solar panel without it. I substituted this part with a pipe cleaner, which is a cheaper and more available alternative. I also had trouble building the wooden frame, but I persevered and got it done in the end.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ikWYol-akvw" title="Kunal C Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/ikWYol-akvw" title="Kunal C Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 My second milestone is that a servo motor will turn in the direction of the light. For this to work, I used the same photoresistors, but I also connected a servo motor to the Arduino which could take data through the analog pins. One issue that I had was that the motor wasn't turning even when I put light. To fix this, I changed when the motor would move to be more sensitive. This will be used in my final design to move the solar panel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hPz20W8WfWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/hPz20W8WfWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # First Milestone
