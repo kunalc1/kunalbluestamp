@@ -8,9 +8,9 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone was finalizing the design. I included the solar panel and built the frame out of wood. My modification was the LCD screen which displays how much light went to each photoresistor. Some issues that I had were that I didn't have access to spring steel, so the motor wasn't able to move the solar panel without it. I substituted this part with a pipe cleaner, which is a cheaper and more available alternative. I also had trouble building the wooden frame, but I persevered and got it done in the end.
 
-[![Final Milestone]
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ikWYol-akvw" title="Kunal C Milestone 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Second Milestone
 My second milestone is that a servo motor will turn in the direction of the light. For this to work, I used the same photoresistors, but I also connected a servo motor to the Arduino which could take data through the analog pins. One issue that I had was that the motor wasn't turning even when I put light. To fix this, I changed when the motor would move to be more sensitive. This will be used in my final design to move the solar panel.
