@@ -1,5 +1,5 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+Solar Panel Sun Tracker/Phone Charger
+This project utilizes two photoresistors to measure light and more a servo motor accordingly to move a solar panel to the most optimal position. The energy can be taken from the solar panel to power any 5V devices.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
