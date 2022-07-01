@@ -4,8 +4,6 @@ This project utilizes two photoresistors to measure light and more a servo motor
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Kunal C. | Mission San Jose | Software Engineering | Incoming Freshman
-
-(https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
 # Final Milestone
 My final milestone was finalizing the design. I included the solar panel and built the frame out of wood. My modification was the LCD screen which displays how much light went to each photoresistor. Some issues that I had were that I didn't have access to spring steel, so the motor wasn't able to move the solar panel without it. I substituted this part with a pipe cleaner, which is a cheaper and more available alternative. I also had trouble building the wooden frame, but I persevered and got it done in the end.
